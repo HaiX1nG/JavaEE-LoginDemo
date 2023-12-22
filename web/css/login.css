@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#loginBox {
+    text-align: center;
+}
+
+#fieldset {
+    width: 300px;
+    height: auto;
+    margin: 5px auto;
+}
